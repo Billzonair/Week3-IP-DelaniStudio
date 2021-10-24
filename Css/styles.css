@@ -47,3 +47,23 @@ body{
     font-size: 13px;
     text-align: center;
 }
+#what-we-do{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20mm;
+}
+.container{
+    display: flex;
+    column-count: 3;
+    text-align: center;
+}
+.design{
+    width: 100%;
+}
+.development{
+    width: 100%;
+}
+.product-management{
+    width: 100%;
+}
+
