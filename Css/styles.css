@@ -1,3 +1,6 @@
+body{
+    font-family: 'Zen Old Mincho', serif;
+}
 .welcome{
     background-image: url(../Img/stairs.jpg);
     padding: 250px 250px;
