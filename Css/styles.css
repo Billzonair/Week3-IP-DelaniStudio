@@ -8,6 +8,20 @@
 }
 #welcome-text{
     color: rgb(255, 255, 255);
-    font-size: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+#small{
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    text-align: center;
+}
+#logo{
+    text-align: center;
+}
+#mouse{
+    text-align: center;
+}
+.us{
     text-align: center;
 }
