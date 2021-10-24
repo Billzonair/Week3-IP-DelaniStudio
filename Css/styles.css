@@ -5,6 +5,7 @@
     background-repeat: no-repeat;
     background-size:contain;
     background-position:center;
+    
 }
 #welcome-text{
     color: rgb(255, 255, 255);
@@ -23,5 +24,23 @@
     text-align: center;
 }
 .us{
+    text-align: center;
+}
+.services{
+    background-image: url(../Img/keyboard.jpg);
+    padding: 250px 200px;
+    margin: 100px;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position:center;
+}
+#services-title{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+}
+#service{
+    color: rgb(255, 255, 255);
+    font-size: 13px;
     text-align: center;
 }
