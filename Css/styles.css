@@ -52,18 +52,43 @@ body{
     font-weight: bold;
     margin-bottom: 20mm;
 }
-.container{
+.container-1{
     display: flex;
     column-count: 3;
     text-align: center;
 }
-.design{
+.design-hidden{
     width: 100%;
 }
-.development{
+.design-showing{
+    width: 100%;
+    display: none;
+}
+.development-hidden{
     width: 100%;
 }
-.product-management{
+.development-showing{
     width: 100%;
+    display: none;
+}
+.product-management-hidden{
+    width: 100%;
+}.product-management-showing{
+    width: 100%;
+    display: none;
+}
+.portfolio{
+    text-align: center;
+}
+#portfolio-title{
+    text-align: center;
+}
+.container-2{
+    display: flex;
+    column-count: 4;
+}
+.container-3{
+    display: flex;
+    column-count: 4;
 }
 
