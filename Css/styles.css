@@ -113,11 +113,13 @@ body{
 #input-1{
     text-align: center;
     font-size: 15px;
-    margin-right: 5cm;
+    margin-right: 0.1px;
+    margin-left: 7cm;
 }
 #input-2{
     text-align: center;
     font-size: 15px;
+    margin-left: 5cm;
 }
 #message-form{
     border: 2px solid rgb(255, 255, 255);
@@ -126,6 +128,7 @@ body{
     width: 800px;
     height: 300px;
     background: local;
+    margin-left: 7cm;
 }
 .container-5{
     display: inline-block;
@@ -135,5 +138,9 @@ body{
 }
 .footer{
     text-align: center;
+}
+#button{
+    text-align: center;
+    margin-left: 18cm;
 }
 
