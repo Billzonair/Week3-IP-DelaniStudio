@@ -16,4 +16,9 @@ $(document).ready(function() {
     $(".product-management-hidden").toggle();
   })
 })
+function submit(){
+  alert("we have received your message. Thank you for reaching out to us.")
+}
+
+
 
