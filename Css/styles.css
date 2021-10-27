@@ -86,10 +86,12 @@ body{
 .container-2{
     display: flex;
     column-count: 4;
+    margin-left: 255px;
 }
 .container-3{
     display: flex;
     column-count: 4;
+    margin-left: 255px;
 }
 .form{
     background-image: url(../Img/engine.jpg);
