@@ -125,7 +125,7 @@ body{
     border: 2px solid rgb(255, 255, 255);
     padding: 6px;
     margin: 20px;
-    width: 800px;
+    width: 850px;
     height: 300px;
     background: local;
     margin-left: 7cm;
@@ -142,5 +142,29 @@ body{
 #button{
     text-align: center;
     margin-left: 18cm;
+}
+#portfolio-1{
+    display: none;
+}
+#portfolio-2{
+    display: none;
+}
+#portfolio-3{
+    display: none;
+}
+#portfolio-4{
+    display: none;
+}
+#portfolio-5{
+    display: none;
+}
+#portfolio-6{
+    display: none;
+}
+#portfolio-7{
+    display: none;
+}
+#portfolio-8{
+    display: none;
 }
 
