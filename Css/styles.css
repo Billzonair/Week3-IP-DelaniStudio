@@ -29,6 +29,9 @@ body{
 .us{
     text-align: center;
 }
+#message{
+    font-size: 20px;
+}
 .services{
     background-image: url(../Img/keyboard.jpg);
     padding: 250px 200px;
@@ -44,7 +47,7 @@ body{
 }
 #service{
     color: rgb(255, 255, 255);
-    font-size: 13px;
+    font-size: 20px;
     text-align: center;
 }
 #what-we-do{
@@ -86,12 +89,12 @@ body{
 .container-2{
     display: flex;
     column-count: 4;
-    margin-left: 255px;
+    margin-left: 245px;
 }
 .container-3{
     display: flex;
     column-count: 4;
-    margin-left: 255px;
+    margin-left: 245px;
 }
 .form{
     background-image: url(../Img/engine.jpg);
@@ -166,5 +169,29 @@ body{
 }
 #portfolio-8{
     display: none;
+}
+#work-1{
+    margin-right: 25px;
+    margin-bottom: 45px;
+}
+#work-2{
+    margin-right: 25px;
+    margin-bottom: 45px;
+}
+#work-3{
+    margin-right: 25px;
+    margin-bottom: 45px;
+}
+#work-4{
+    margin-bottom: 45px;
+}
+#work-5{
+    margin-right: 25px;
+}
+#work-6{
+    margin-right: 25px;
+}
+#work-7{
+    margin-right: 25px;
 }
 
